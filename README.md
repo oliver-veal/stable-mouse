@@ -8,6 +8,7 @@
   </p>
 </p>
 
+[![Product Name Screen Shot][product-screenshot]]()
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -45,3 +46,5 @@ Project Link: [github.com/oliver-veal/stable-mouse](https://github.com/oliver-ve
 * Shefali Bagaria
 * Megan Hale
 * Molly Morrell
+
+[product-screenshot]: images/screenshot.png
