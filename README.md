@@ -21,7 +21,7 @@ To get a local copy up and running follow these steps.
    ```sh
    git clone https://github.com/oliver-veal/stable-mouse.git
    ```
-2. Serve src/index.html (I recommend live-server or http-server from npm)
+2. Serve `src/index.html` (I recommend `live-server` or `http-server` from npm)
 
 
 <!-- LICENSE -->
